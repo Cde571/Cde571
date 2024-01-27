@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on projects that blend my love for music with my passion for technology, creating platforms or applications that enhance the local artistic scene.
 
-📫 How to reach me: You can send me a direct message here or contact me via email at [your.email@example.com].
+📫 How to reach me: You can follow me on youtube "www.youtube.com/cdecp"
 
 😄 Pronouns: He/Him
 
