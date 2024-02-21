@@ -46,7 +46,7 @@
   </div>
    
 <div style="flex: 1; margin-bottom: 20px;">
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cde571&" alt="cde571" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cde571&" alt="cde571" />
   </div>
   
 </div>
