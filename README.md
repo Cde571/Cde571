@@ -1,4 +1,4 @@
-![logo](![image]([https://github.com/Cde571/Cde571/assets/127961203/6372166e-51bd-4764-941a-68a8c3cff0c9](https://github.com/Cde571/Cde571/blob/main/Captura%20de%20pantalla%202024-02-21%20081943.png))
+![logo](https://github.com/Cde571/Cde571/blob/main/Captura%20de%20pantalla%202024-02-21%20081943.png)
 )
 # 👋 Hi, I'm @Cde571
 
