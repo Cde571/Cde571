@@ -1,4 +1,5 @@
-![logo](https://github.com/Cde571/Cde571/blob/main/OIG4.jpg)
+![logo](![image](https://github.com/Cde571/Cde571/assets/127961203/6372166e-51bd-4764-941a-68a8c3cff0c9)
+)
 # 👋 Hi, I'm @Cde571
 
 👀 I’m interested in playing the guitar, immersing myself in the world of music, and exploring the fascinating realm of artificial intelligence.
