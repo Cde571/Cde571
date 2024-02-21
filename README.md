@@ -45,11 +45,12 @@
   </div>
 
   <div style="flex: 1;"><br>
-    <h3 align="left">Support:</h3>
-    <a href="https://www.buymeacoffee.com/davidechevw">
-      <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="davidechevw" />
+    
     </a>
   </div>
+  <h3 align="left">Support:</h3>
+    <a href="https://www.buymeacoffee.com/davidechevw">
+      <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="davidechevw" />
 
 </div>
 
