@@ -1,3 +1,4 @@
+![logo]()
 # 👋 Hi, I'm @Cde571
 
 👀 I’m interested in playing the guitar, immersing myself in the world of music, and exploring the fascinating realm of artificial intelligence.
