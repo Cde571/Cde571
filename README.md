@@ -48,7 +48,7 @@
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cde571&" alt="cde571" />
   </div>
 
-  <div style="flex: 1;">
+  <div style="flex: 1;"><br>
     <h3 align="left">Support:</h3>
     <a href="https://www.buymeacoffee.com/davidechevw">
       <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="davidechevw" />
