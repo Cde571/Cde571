@@ -45,7 +45,7 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=cde571&show_icons=true&locale=en&layout=compact" alt="cde571" />
   </div>
    
-<div style="flex: 1; margin-bottom: 20px;">
+<div style="flex: 1; margin-center: 20px;">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cde571&" alt="cde571" />
   </div>
   
