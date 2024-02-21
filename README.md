@@ -15,8 +15,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Cde571)
 <h1 align="center">Hum 👋,and after I'm Cristian</h1>
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
-<img aligh="right"alt="coding" width="400" src="![image](https://github.com/Cde571/Cde571/assets/127961203/ada890b7-2db8-4694-9e01-5cc0472af28e)
-">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/cde571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cde571" height="30" width="40" /></a>
@@ -42,15 +40,11 @@
   <div style="flex: 1; margin-right: 200px;">
     &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=cde571&show_icons=true&locale=en" alt="cde571" />
   </div>
-   <br>
-       <br>
-        <br>
+  
  <div style="flex: 1; margin-right: 20px;">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=cde571&show_icons=true&locale=en&layout=compact" alt="cde571" />
   </div>
-   <br>
-       <br>
-        <br>
+   
 <div style="flex: 1; margin-bottom: 20px;">
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cde571&" alt="cde571" />
   </div>
