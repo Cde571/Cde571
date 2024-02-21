@@ -37,8 +37,8 @@
        <br>
         <br>
 
-  <div style="flex: 1; margin-right: 200px;">
-    &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=cde571&show_icons=true&locale=en" alt="cde571" />
+  <div style="flex: 1; margin-right: 20px;">
+    &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=cde571&show_icons=true&locale=en" alt="cde571" />
   </div>
   
  <div style="flex: 1; margin-right: 20px;">
