@@ -12,15 +12,11 @@
 
 ⚡ Fun fact: I'm not only into creating digital experiences but also enjoy composing music on my guitar, weaving the realms of code and creativity.
 
----
-
-## GitHub Actions Status
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Cde571)
-[![GitHub Actions Status](https://github.com/Cde571/Cde571/workflows/Your-GitHub-Actions-Workflow-Name/badge.svg)](https://github.com/Cde571/Cde571/actions)
 <h1 align="center">Hi 👋, I'm Cristian</h1>
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
-
+<img aligh="right"alt="coding" width="400" src="![image](https://github.com/Cde571/Cde571/assets/127961203/ada890b7-2db8-4694-9e01-5cc0472af28e)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cde571&label=Profile%20views&color=0e75b6&style=flat" alt="cde571" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
