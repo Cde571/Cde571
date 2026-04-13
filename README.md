@@ -1,137 +1,82 @@
 <div align="center">
 
-  <img src="./assets/arcade-header.gif" alt="Arcade Header" width="100%" />
+  <img src="./assets/graffiti-arcade-header.gif" alt="Graffiti Arcade Header" width="100%" />
 
-  <h1>Cristian Echeverry</h1>
-  <h3>Full-Stack Developer | Astro, React, TypeScript, Node.js</h3>
+  <br />
 
-  <p>
-    <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1400&color=6CF2FF&center=true&vCenter=true&width=700&lines=Building+clean+products+with+an+arcade+mindset;Frontend+precision+with+strong+backend+logic;Interactive+UI%2C+scalable+systems%2C+real+execution">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1400&color=6CF2FF&center=true&vCenter=true&width=700&lines=Building+clean+products+with+an+arcade+mindset;Frontend+precision+with+strong+backend+logic;Interactive+UI%2C+scalable+systems%2C+real+execution" alt="Typing Animation" />
-    </a>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1600&color=F97316&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+from+Colombia;Arcade-inspired+interfaces+with+clean+system+design;Astro+React+TypeScript+Node.js+MongoDB;Building+products+with+identity+and+precision" alt="Typing Animation" />
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Cde571&style=for-the-badge&color=0e7490" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/Cde571?style=for-the-badge&color=111827" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/Cde571?style=for-the-badge&color=111827" alt="Stars" />
-  </p>
+  <br />
+
+  <img src="https://komarev.com/ghpvc/?username=Cde571&style=for-the-badge&color=2B2B2B&labelColor=111111" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Cde571?style=for-the-badge&color=7C3AED&labelColor=111111" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Cde571?style=for-the-badge&color=F97316&labelColor=111111" alt="Stars" />
 
 </div>
 
 ---
 
-## Profile
+## PROFILE
 
-I am a full-stack developer from Colombia focused on building digital products with strong visual identity, clean architecture, and practical business value.
+I am Cristian Echeverry, a full-stack developer focused on building digital products with strong visual identity, solid frontend architecture, and practical backend logic.
 
-My work usually combines:
-- modern frontend systems
-- scalable backend logic
-- professional UI structure
-- interactive experiences with personality
+My work combines:
+- interactive interfaces
+- professional UI systems
+- scalable application structure
+- product-oriented development
 
-I enjoy turning ideas into polished products, especially when the interface, logic, and user flow need to feel cohesive from end to end.
-
----
-
-## Current Focus
-
-- Building interactive web applications with Astro, React and TypeScript
-- Designing professional interfaces with a strong visual concept
-- Developing systems for quotations, dashboards and operational workflows
-- Exploring AI-powered products, computer vision and smart automation
+I enjoy creating experiences that feel visually distinct without losing clarity, performance, or usability.
 
 ---
 
-## Selected Projects
+## CURRENT FOCUS
+
+- Building modern applications with Astro, React and TypeScript
+- Designing polished interfaces with arcade-inspired visual systems
+- Developing business tools, dashboards and quotation platforms
+- Exploring AI-based products, automation and computer vision
+
+---
+
+## SELECTED PROJECTS
 
 ### FoodEmotions Platform
-An interactive platform that combines emotional interaction, content, and smart digital experiences.
+An interactive product that blends emotional interaction, content, and intelligent digital experiences.
 
 **Stack:** Astro, React, TypeScript, Tailwind, Node.js, MongoDB
 
----
-
 ### Smart CCTV Management
-A security-focused system for monitoring, configuration, reporting and operational control.
+A security-oriented management system for monitoring, operational control, reports and modular workflows.
 
-**Stack:** Astro, TypeScript, Local Services, PDF generation, dashboard architecture
-
----
+**Stack:** Astro, TypeScript, dashboards, document workflows, local services
 
 ### World Cup Predictions
-A dynamic football prediction platform with ranking systems, match views and interactive user flows.
+A dynamic football prediction platform with rankings, team views, score flows and responsive interaction.
 
-**Stack:** Astro, TypeScript, API integration, responsive UI
-
----
+**Stack:** Astro, TypeScript, API integration, responsive architecture
 
 ### Quotation CRM for Security Solutions
-A professional quotation and document workflow system for clients, products, payments, reports and PDF exports.
+A quotation and business workflow system with client management, products, reports and professional PDF exports.
 
-**Stack:** Astro, React, TypeScript, local persistence, printable documents
-
----
-
-## Tech Stack
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=astro,react,ts,js,nodejs,tailwind,mongodb,python,git,github,vscode,figma,docker" alt="Tech Stack" />
-
-</div>
+**Stack:** Astro, React, TypeScript, printable documents, structured modules
 
 ---
 
-## Development Principles
-
-- Clear structure over visual noise
-- Strong UX before unnecessary effects
-- Reusable components over repeated code
-- Interfaces with identity, but still professional
-- Systems that solve real workflow problems
-
----
-
-## GitHub Analytics
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cde571&show_icons=true&theme=transparent&hide_border=true&title_color=6CF2FF&text_color=C9D1D9&icon_color=6CF2FF" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cde571&layout=compact&theme=transparent&hide_border=true&title_color=6CF2FF&text_color=C9D1D9" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cde571&theme=transparent&hide_border=true&stroke=6CF2FF&ring=6CF2FF&fire=6CF2FF&currStreakLabel=6CF2FF" alt="GitHub Streak" />
-</div>
-
----
-
-## Contact
+## CORE STACK
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/cristian-echeverry-269770155">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://dev.to/cde571">
-    <img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="https://www.youtube.com/cdecp">
-    <img src="https://img.shields.io/badge/YouTube-B91C1C?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://discord.gg/Cde57">
-    <img src="https://img.shields.io/badge/Discord-1F2937?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=astro,react,ts,js,nodejs,tailwind,mongodb,python,docker,git,github,vscode,figma&theme=dark" alt="Tech Stack" />
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="./assets/arcade-divider.gif" alt="Arcade Divider" width="100%" />
-</div>
+## DEVELOPMENT STYLE
 
-<div align="center">
-  <sub>Arcade mode enabled. Clean systems. Sharp interfaces. Real products.</sub>
-</div>
+```text
+UI Identity      -> strong visuals, controlled motion, clean hierarchy
+Frontend Logic   -> reusable components, scalable structure
+Backend Thinking -> practical systems, real workflows, useful automation
+Build Quality    -> consistency, readability, maintainability
